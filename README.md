@@ -1,16 +1,15 @@
 ## Hi there 👋
+Welcome to my GitHub profile! ✨  
 
-<!--
-**kirillstrelets/kirillstrelets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me  
 
-Here are some ideas to get you started:
+- 🌟 **Who I am**: Senior System Architect  
+- 🚀 **Key Technologies**: C++, C#, Python  
+- 📚 **Education**: Master's Degree, Moscow State University of Transport
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills  
+
+- **Programming Languages**: C++, C#, Python, Assembler  
+- **Databases**: MSSQL  
+
+[![LinkedIn - keovsyannikov](https://img.shields.io/badge/LinkedIn-keovsyannikov-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keovsyannikov/)
