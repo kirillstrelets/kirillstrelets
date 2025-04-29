@@ -3,7 +3,7 @@ Welcome to my GitHub profile! ✨
 
 ## 👨‍💻 About Me  
 
-- 🌟 **Who I am**: Senior System Architect  
+- 🌟 **Who I am**: Lead System Architect  
 - 🚀 **Key Technologies**: C++, C#, Python  
 - 📚 **Education**: Master's Degree, Moscow State University of Transport
 
